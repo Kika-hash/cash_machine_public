@@ -69,5 +69,6 @@ def configure_fake_data():
 # Contact information
 
 # License
+Public domain
 
 # Acknowledgment
